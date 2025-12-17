@@ -1,0 +1,6 @@
+path: <<SETPATH>>
+train: images/train
+val: images/val
+
+names:
+  <<CLASSES>>
